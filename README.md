@@ -1,2 +1,0 @@
-# zhuxuexuan
-Personal website
